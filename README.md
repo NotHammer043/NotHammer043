@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-![haha](https://github.com/NotHammer043/NotHammer043/assets/107131733/690acdc3-a780-4043-aafa-b065c04c814e)
+![haha](https://github.com/NotHammer043/NotHammer043/assets/107131733/b3461836-c97f-46a5-b14b-b5aa9cb5ac92)
 
 <!--
 **NotHammer043/NotHammer043** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
