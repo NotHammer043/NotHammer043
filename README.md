@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cloud.nanomidi.net/DrwPbPyILws6.png"  />
+<img align="right" height="150" src="https://cdn.nanomidi.net/DrwPbPyILws6.png"  />
 
 ###
 
